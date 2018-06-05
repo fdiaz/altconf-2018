@@ -26,7 +26,7 @@
 
 ---
 
-# 2010 - 2014
+# 2010 – 2014
 
 ^ SLOW
 
@@ -255,7 +255,7 @@
 
 # ~~Despite~~
 # _Because_
-## they're unconfortable
+## they're uncomfortable
 
 ---
 
@@ -277,7 +277,7 @@
 
 ---
 
-# **_I learnt_** something new
+# **_I learned_** something new
 
 ^ Either about what I'm talking
 ^ Or about myself
@@ -286,7 +286,7 @@
 
 ---
 
-# **_I talked_** 
+# **_I spoke_** 
 # to new people
 
 ^ I'm an introvert
@@ -465,7 +465,7 @@
 ---
 
 # _Step 1:_
-## Reasearch
+## Research
 
 ---
 
